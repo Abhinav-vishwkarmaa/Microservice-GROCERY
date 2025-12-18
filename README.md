@@ -1,7 +1,11 @@
 ﻿# Microservice-GROCERY
 
-##Completed Serveices
+#Completed Serveices
+
   auth
+  
   mail and mobile otp
+  
   user services
   
+
